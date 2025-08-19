@@ -1,0 +1,30 @@
+<?php
+
+$sites['tyripk.ee'] = 'tyripk.ee';
+$sites['vtg.vil.ee'] = 'vtg.vil.ee';
+$sites['vara.edu.ee'] = 'vara.edu.ee';
+$sites['paidepk.ee'] = 'paidepk.ee';
+$sites['mehaanikakool.ee'] = 'mehaanikakool.ee';
+$sites['klk.vil.ee'] = 'klk.vil.ee';
+$sites['tartukunstikool.ee'] = 'tartukunstikool.ee';
+$sites['laekverekool.edu.ee'] = 'laekverekool.edu.ee';
+$sites['jjaanikool.ee'] = 'jjaanikool.ee';
+$sites['sinimae.edu.ee'] = 'sinimae.edu.ee';
+$sites['krk.edu.ee'] = 'krk.edu.ee';
+$sites['reg.ee'] = 'reg.ee';
+$sites['maarja.edu.ee'] = 'maarja.edu.ee';
+$sites['muumimaja.ee'] = 'muumimaja.ee';
+$sites['torilasteaed.ee'] = 'torilasteaed.ee';
+$sites['laimjala.edu.ee'] = 'laimjala.edu.ee';
+$sites['pk.edu.ee'] = 'pk.edu.ee';
+$sites['lounaparlid.ee'] = 'lounaparlid.ee';
+$sites['johvisport.ee'] = 'johvisport.ee';
+$sites['leisi.edu.ee'] = 'leisi.edu.ee';
+$sites['poide.edu.ee'] = 'poide.edu.ee';
+$sites['retla.edu.ee'] = 'retla.edu.ee';
+$sites['janesselja.ee'] = 'janesselja.ee';
+$sites['kihelkonna.edu.ee'] = 'kihelkonna.edu.ee';
+$sites['marjamaa.edu.ee'] = 'marjamaa.edu.ee';
+$sites['saugakool.ee'] = 'saugakool.ee';
+$sites['toripk.ee'] = 'toripk.ee';
+$sites['uhtna.edu.ee'] = 'uhtna.edu.ee';
