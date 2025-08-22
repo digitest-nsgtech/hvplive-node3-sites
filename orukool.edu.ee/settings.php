@@ -36,7 +36,7 @@ $base_url = 'https://orukool.edu.ee';
 $settings['hash_salt']  = file_get_contents(__DIR__ . '/salt.txt');
 
 $settings['update_free_access'] = FALSE;
-$settings['file_public_path'] = 'sites/orukool.edu.ee/files/myfiles';
+$settings['file_public_path'] = 'sites/orukool.edu.ee/files';
 $settings['file_private_path'] = 'sites/orukool.edu.ee/privatefiles';
 $settings['file_temp_path'] = 'sites/orukool.edu.ee/tmp';
 
